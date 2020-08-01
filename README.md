@@ -10,17 +10,8 @@
 - 🤔 I’m looking for help with developing middlewares
 - ⚡ Fun fact: I'm a Desginer too & I can cook!
 
-### Connect with me:
-
-<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/twitter.svg" />][twitter]-->
-[<img align="left" alt="iAmSt0rm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/instagram.svg" />][instagram]
-[<img align="left" alt="iAmSt0rm | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/behance.svg" />][behance]
-
 <br />
-
+---
 ##Skills
 ###Technical
 
@@ -34,10 +25,9 @@
 [<img align="left" title="MySQL" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/mysql.svg" />](#)
 
 <br/>
-
+---
 ###Creative
-
-[<img align="left" title="Lightroom" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobelightroomclassic.svg" />](#)
+[<img align="left" title="Lightroom" alt="Lightroom" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobelightroomclassic.svg" />](#)
 [<img align="left" title="Photoshop" alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobephotoshop.svg" />](#)
 [<img align="left" title="Illustrator" alt="Illustrator" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobeillustrator.svg" />](#)
 [<img align="left" title="InDesign" alt="InDesign" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobeindesign.svg" />](#)
@@ -45,5 +35,13 @@
 [<img align="left" title="Premier Pro" alt="Premier Pro" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobepremierepro.svg" />](#)
 [<img align="left" title="After Effects" alt="After Effects" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobeaftereffects.svg" />](#)
 
+
+### Connect with me:
+
+[<img align="center" alt="iAmSt0rm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/linkedin.svg" />][linkedin]
+[<img aalign="center" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/instagram.svg" />][instagram]
+[<img align="center" alt="iAmSt0rm | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/behance.svg" />][behance]
+
 [linkedin]:https://www.linkedin.com/in/paraskrv/
 [instagram]:https://www.instagram.com/i_am_paras7/
+[behance]:https://www.behance.net/parasverma/
