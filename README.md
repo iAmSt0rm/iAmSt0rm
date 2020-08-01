@@ -1,4 +1,4 @@
-[<img align="center" width="25px" src="https://image.flaticon.com/icons/svg/2572/2572732.svg"/>](#)
+[<img align="center" width="50%" src="https://image.flaticon.com/icons/svg/2087/2087884.svg"/>](#)
 ### Hi! iAmSt0rm!
 
 <!--
@@ -12,7 +12,7 @@
 <br />
 
 ## Skills
-### [<img align="center" title="Programming" alt="Code" width="26px" src="https://image.flaticon.com/icons/svg/2572/2572732.svg" />](#)&nbsp;Tech Stack
+### [<img align="center" title="Programming" alt="Code" width="26px" src="https://img.icons8.com/material-sharp/96/000000/source-code.png" />](#)&nbsp;Tech Stack
 
 [<img align="center" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/visualstudiocode.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="HTML5" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/html5.svg" />](#)&nbsp;&nbsp;
