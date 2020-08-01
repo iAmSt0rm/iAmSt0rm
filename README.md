@@ -1,17 +1,14 @@
 
-### Hi! iAmSt0rm! :stuck_out_tongue_winking_eye:
+### Hi! iAmSt0rm!
 
 <!--
 **iAmSt0rm/iAmSt0rm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- [<img align="center" width="50px" src="https://img.icons8.com/clouds/100/000000/code.png"/>](#) Currently working on a special project with [Jatin Goyal](https://github.com/Jatin1o1).
-- [<img align="center" width="50px" src="https://img.icons8.com/clouds/100/000000/learning.png"/>](#) Currently learning Cloud Development.
-- [<img align="center" width="40px" src="https://img.icons8.com/nolan/100/search.png"/>](#) I’m looking for help with developing middlewares
-- [<img align="center" width="40px" src="https://img.icons8.com/nolan/100/designer.png"/>](#) Fun fact: I'm a Desginer too!
-
-<br />
-
+- [<img align="center" width="25px" src="https://img.icons8.com/clouds/100/000000/code.png"/>](#) Currently working on a special project with [Jatin Goyal](https://github.com/Jatin1o1).
+- [<img align="center" width="25px" src="https://img.icons8.com/clouds/100/000000/learning.png"/>](#) Learning Cloud Development.
+- [<img align="center" width="20px" src="https://img.icons8.com/nolan/100/search.png"/>](#) I’m looking for help with developing middlewares
+- [<img align="center" width="20px" src="https://img.icons8.com/nolan/100/designer.png"/>](#) Fun fact: I'm a Graphic Desginer too!
 ## Skills
 ### Tech Stack
 
@@ -22,9 +19,21 @@
 [<img align="center" height="25px" width="20px" src="https://img.icons8.com/ios-filled/50/000000/vertical-line.png" />](#)
 [<img align="center" title="C++" alt="C++" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/cplusplus.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="Python" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/python.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="MySQL" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/mysql.svg" />](#)&nbsp;
+[<img align="center" title="MySQL" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/mysql.svg" />](#)&nbsp;&nbsp;
+[<img align="center" height="25px" width="20px" src="https://img.icons8.com/ios-filled/50/000000/vertical-line.png" />](#)
+[<img align="center" title="RobotOperatingSystem (ROS)" alt="RobotOperatingSystem (ROS)" width="22px" src="https://img.icons8.com/ios-filled/100/000000/r.png" /><img align="center" title="RobotOperatingSystem (ROS)" alt="RobotOperatingSystem (ROS)" width="22px" src="https://img.icons8.com/ios-filled/100/000000/o.png" /><img align="center" title="RobotOperatingSystem (ROS)" alt="RobotOperatingSystem (ROS)" width="22px" src="https://img.icons8.com/ios-filled/100/000000/s.png" />](#)&nbsp;&nbsp;
 
-### Connect with me:
+<br />
+
+
+## [<img align="center" title="Medium" alt="medium" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/medium.svg" /> ](https://medium.com/@iamstorm) Medium Posts
+- [[Updated] VSCode C/C++ (& 40+ Languages) Development Setup for Windows (Run and Debug)](https://medium.com/@iamstorm/updated-vscode-c-c-40-languages-development-setup-for-windows-run-and-debug-ced6b593cc5)&nbsp;
+
+- [VSCode Color Bug on Linux and Fix](https://medium.com/@iamstorm/vscode-bug-on-linux-7ca4c4544d24)&nbsp;
+
+<br />
+
+## Connect with me:
 
 [<img align="center" alt="iAmSt0rm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/linkedin.svg" />][linkedin]
 &nbsp;&nbsp;&nbsp;
