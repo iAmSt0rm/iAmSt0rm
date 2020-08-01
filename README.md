@@ -11,9 +11,9 @@
 - ⚡ Fun fact: I'm a Desginer too & I can cook!
 
 <br />
----
-##Skills
-###Technical
+
+## Skills
+### Tech Stack
 
 [<img align="center" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/visualstudiocode.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="HTML5" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/html5.svg" />](#)&nbsp;&nbsp;
@@ -23,17 +23,6 @@
 [<img align="center" title="C++" alt="C++" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/cplusplus.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="Python" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/python.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="MySQL" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/mysql.svg" />](#)&nbsp;
-
-<br/>
----
-###Creative
-[<img align="center" title="Lightroom" alt="Lightroom" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobelightroomclassic.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="Photoshop" alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobephotoshop.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="Illustrator" alt="Illustrator" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobeillustrator.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="InDesign" alt="InDesign" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobeindesign.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="Adobe Xd" alt="Adobe Xd" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobexd.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="Premier Pro" alt="Premier Pro" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobepremierepro.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="After Effects" alt="After Effects" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobeaftereffects.svg" />](#)
 
 ### Connect with me:
 
