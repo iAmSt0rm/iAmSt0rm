@@ -5,10 +5,10 @@
 **iAmSt0rm/iAmSt0rm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 Currently working on a special project with [Jatin Goyal](https://github.com/Jatin1o1).
-- 🌱 Currently learning Cloud Development.
-- 🤔 I’m looking for help with developing middlewares
-- ⚡ Fun fact: I'm a Desginer too & I can cook!
+- [<img align="center" width="50px" src="https://img.icons8.com/clouds/100/000000/code.png"/>](#) Currently working on a special project with [Jatin Goyal](https://github.com/Jatin1o1).
+- [<img align="center" width="50px" src="https://img.icons8.com/clouds/100/000000/learning.png"/>](#) Currently learning Cloud Development.
+- [<img align="center" width="40px" src="https://img.icons8.com/nolan/100/search.png"/>](#) I’m looking for help with developing middlewares
+- [<img align="center" width="40px" src="https://img.icons8.com/nolan/100/designer.png"/>](#) Fun fact: I'm a Desginer too!
 
 <br />
 
