@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" media="all" href="css/readme.md.css" />
+<link rel="stylesheet" type="text/css" media="all" href="readme.md.css" />
 
 ![code](https://image.flaticon.com/icons/svg/2087/2087884.svg)
 ### Hi! iAmSt0rm! 
