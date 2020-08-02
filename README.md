@@ -49,11 +49,11 @@
 
 ## [<img align="center" title="Social Media" alt="Social Media" width="26px" src="https://image.flaticon.com/icons/svg/929/929610.svg" />](#)&nbsp;Connect with me:
 
-[<img align="center" alt="iAmSt0rm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="iAmSt0rm | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/linkedin.svg" />][linkedin]
 &nbsp;&nbsp;&nbsp;
-[<img align="center" alt="iAmSt0rm | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/instagram.svg" />][instagram]
+[<img align="center" alt="iAmSt0rm | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/instagram.svg" />][instagram]
 &nbsp;&nbsp;&nbsp;
-[<img align="center" alt="iAmSt0rm | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/behance.svg" />][behance]
+[<img align="center" alt="iAmSt0rm | Behance" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/behance.svg" />][behance]
 
 [linkedin]: https://www.linkedin.com/in/paraskrv/
 [instagram]: https://www.instagram.com/i_am_paras7/
