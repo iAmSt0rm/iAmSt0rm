@@ -11,7 +11,7 @@
 - [<img align="center" width="20px" src="https://img.icons8.com/nolan/100/designer.png"/>](#) Fun fact: I'm a Graphic Desginer too!
 <br />
 
-## Skills
+## [<img align="center" title="Skills" alt="Skills" width="26px" height="26px" src="https://image.flaticon.com/icons/svg/921/921330.svg" />](#)&nbsp;Skills
 ### [<img align="center" title="Programming" alt="Code" width="26px" src="https://img.icons8.com/material-sharp/96/000000/source-code.png" />](#)&nbsp;Tech Stack
 
 [<img align="center" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/visualstudiocode.svg" />](#)&nbsp;&nbsp;
@@ -30,24 +30,24 @@
 
 [<img align="center" title="Adobe Lightroom" alt="Adobe Lightroom" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobelightroomclassic.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="Adobe Photoshop CC" alt="Adobe Photoshop CC" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobephotoshop.svg" />](#)&nbsp;
-[<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios-filled/50/000000/vertical-line.png" />](#)
+[<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios/50/000000/vertical-line.png" />](#)
 [<img align="center" title="Adobe Illustrator CC" alt="C++" alt="Adobe Illustrator CC" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobeillustrator.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="Adobe XD" alt="Adobe XD" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobexd.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="Adobe InDesign CC" alt="Adobe InDesign CC" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobeindesign.svg" />](#)&nbsp;
-[<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios-filled/50/000000/vertical-line.png" />](#)
+[<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios/50/000000/vertical-line.png" />](#)
 [<img align="center" title="Adobe PremierePro CC" alt="Adobe PremierePro CC" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobepremierepro.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="Adobe AfterEffects CC" alt="Adobe AfterEffects CC" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobeaftereffects.svg" />](#)&nbsp;&nbsp;
 
 <br />
 
-## [<img align="center" title="Medium" alt="medium" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/medium.svg" /> ](https://medium.com/@iamstorm) Medium Posts
+## [<img align="center" title="Medium" alt="medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/medium.svg" /> ](https://medium.com/@iamstorm)&nbsp;Medium Posts
 - [[Updated] VSCode C/C++ (& 40+ Languages) Development Setup for Windows (Run and Debug)](https://medium.com/@iamstorm/updated-vscode-c-c-40-languages-development-setup-for-windows-run-and-debug-ced6b593cc5)&nbsp;
 
 - [VSCode Color Bug on Linux and Fix](https://medium.com/@iamstorm/vscode-bug-on-linux-7ca4c4544d24)&nbsp;
 
 <br />
 
-## Connect with me:
+## [<img align="center" title="Social Media" alt="Social Media" width="26px" src="https://image.flaticon.com/icons/svg/929/929610.svg" />](#)&nbsp;&nbsp;Connect with me:
 
 [<img align="center" alt="iAmSt0rm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/linkedin.svg" />][linkedin]
 &nbsp;&nbsp;&nbsp;
