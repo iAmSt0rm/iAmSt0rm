@@ -32,8 +32,6 @@
 [<img align="center" title="IoT" alt="IoT" width="26px" src="https://img.icons8.com/ios-filled/50/000000/internet-of-things.png" />](#)&nbsp;&nbsp;
 [<img align="center" title="RobotOperatingSystem (ROS)" alt="RobotOperatingSystem (ROS)" width="22px" src="https://img.icons8.com/ios-filled/100/000000/r.png" /><img align="center" title="RobotOperatingSystem (ROS)" alt="RobotOperatingSystem (ROS)" width="22px" src="https://img.icons8.com/ios-filled/100/000000/o.png" /><img align="center" title="RobotOperatingSystem (ROS)" alt="RobotOperatingSystem (ROS)" width="22px" src="https://img.icons8.com/ios-filled/100/000000/s.png" />](#)&nbsp;
 
-<br />
-
 ### [<img align="center" title="Programming" alt="Code" width="20px" src="https://img.icons8.com/material-sharp/96/000000/vector.png" />](#) Creative Suite
 
 [<img align="center" title="Adobe Lightroom" alt="Adobe Lightroom" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobelightroomclassic.svg" />](#)&nbsp;&nbsp;
