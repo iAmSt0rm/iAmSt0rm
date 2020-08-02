@@ -1,4 +1,4 @@
-[<img align="center" width="25%" src="https://image.flaticon.com/icons/svg/2087/2087884.svg"/>](#)
+[<img align="center" width="12%" src="https://image.flaticon.com/icons/svg/2087/2087884.svg"/>](#)
 ### Hi! iAmSt0rm!
 
 <!--
