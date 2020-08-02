@@ -12,12 +12,13 @@
 
 <br />
 
-## [<img align="center" title="Skills" alt="Skills" width="26px" height="26px" src="https://image.flaticon.com/icons/svg/921/921330.svg" />](#)&nbsp;Skills
+## Skills
 ### [<img align="center" title="Programming" alt="Code" width="26px" src="https://img.icons8.com/material-sharp/96/000000/source-code.png" />](#)&nbsp;Tech Stack
-
 [<img align="center" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/visualstudiocode.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="Markdown" alt="Markdown" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/markdown.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="GIT" alt="GIT" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/git.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="Github" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/github.svg" />](#)
+[<img align="center" title="Github" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/github.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="Terminal" alt="Terminal" width="26px" src="https://img.icons8.com/ios-filled/100/000000/console.png" />](#)
 [<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios-filled/50/000000/vertical-line.png" />](#)
 [<img align="center" title="HTML5" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/html5.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="CSS3" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/css3.svg" />](#)&nbsp;&nbsp;
