@@ -1,7 +1,5 @@
-<link rel="stylesheet" type="text/css" media="all" href="readme.md.css" />
-
-![code](https://image.flaticon.com/icons/svg/2087/2087884.svg)
-### Hi! iAmSt0rm! 
+[<img align="center" width="12%" src="https://image.flaticon.com/icons/svg/2087/2087884.svg"/>](#)
+### Hi! iAmSt0rm!
 
 <!--
 **iAmSt0rm/iAmSt0rm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,45 +15,41 @@
 ## [<img align="center" title="Skills" alt="Skills" width="26px" height="26px" src="https://image.flaticon.com/icons/svg/921/921330.svg" />](#)&nbsp;Skills
 ### [<img align="center" title="Programming" alt="Code" width="26px" src="https://img.icons8.com/material-sharp/96/000000/source-code.png" />](#)&nbsp;Tech Stack
 
+[<img align="center" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/visualstudiocode.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="GIT" alt="GIT" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/git.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="Github" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/github.svg" />](#)
+[<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios-filled/50/000000/vertical-line.png" />](#)
+[<img align="center" title="HTML5" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/html5.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="CSS3" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/css3.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="SASS" alt="SASS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/sass.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="JavaScript" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/javascript.svg" />](#)
+[<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios-filled/50/000000/vertical-line.png" />](#)
+[<img align="center" title="C++" alt="C++" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/cplusplus.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="Python" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/python.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="MySQL" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/mysql.svg" />](#)
+[<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios-filled/50/000000/vertical-line.png" />](#)
+[<img align="center" title="Arduino" alt="Arduino" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/arduino.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="IoT" alt="IoT" width="26px" src="https://img.icons8.com/ios-filled/50/000000/internet-of-things.png" />](#)&nbsp;&nbsp;
+[<img align="center" title="RobotOperatingSystem (ROS)" alt="RobotOperatingSystem (ROS)" width="22px" src="https://img.icons8.com/ios-filled/100/000000/r.png" /><img align="center" title="RobotOperatingSystem (ROS)" alt="RobotOperatingSystem (ROS)" width="22px" src="https://img.icons8.com/ios-filled/100/000000/o.png" /><img align="center" title="RobotOperatingSystem (ROS)" alt="RobotOperatingSystem (ROS)" width="22px" src="https://img.icons8.com/ios-filled/100/000000/s.png" />](#)&nbsp;
 
+### [<img align="center" title="Programming" alt="Code" width="20px" src="https://img.icons8.com/material-sharp/96/000000/vector.png" />](#) Creative Suite
 
-![Visual Studio Code](https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/visualstudiocode.svg#techStack "Visual Studio Code")&nbsp;
-![Markdown](https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/markdown.svg#Md "Markdown")&nbsp;
-![GIT](https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/git.svg#techStack "GIT")&nbsp;&nbsp;
-![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/github.svg#techStack "GitHub")&nbsp;&nbsp;
-![Terminal](https://img.icons8.com/ios-filled/50/000000/console.png#techStack "Terminal")&nbsp;&nbsp;
-![](https://img.icons8.com/ios-filled/50/000000/vertical-line.png#techStack)&nbsp;&nbsp;
-![HTML5](https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/html5.svg#techStack "HTML5")&nbsp;&nbsp;
-![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/css3.svg#techStack "CSS3")&nbsp;&nbsp;
-![SASS](https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/sass.svg#techStack "SASS")&nbsp;&nbsp;
-![JavsScript](https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/javascript.svg#techStack "JavaScript")&nbsp;&nbsp;
-![](https://img.icons8.com/ios-filled/50/000000/vertical-line.png#techStack)&nbsp;&nbsp;
-![C++](https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/cplusplus.svg#techStack "C++")&nbsp;&nbsp;
-![Python](https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/python.svg#techStack "Python")&nbsp;&nbsp;
-![MySQL](https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/mysql.svg#techStack "MySQL")&nbsp;&nbsp;
-![](https://img.icons8.com/ios-filled/50/000000/vertical-line.png#techStack)
-![Arduino](https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/arduino.svg#techStack "Arduino")&nbsp;&nbsp;
-![IoT](https://img.icons8.com/ios-filled/50/000000/internet-of-things.png#techStack "Arduino")&nbsp;&nbsp;
-<span class="ros">ROS</span> (Roboto Operating System)
-
-### [<img align="center" title="Creactive Suite" alt="Code" width="20px" src="https://img.icons8.com/material-sharp/96/000000/vector.png" />](#) Creative Suite
-
-![Adobe Lightroom](https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobelightroomclassic.svg#CSuite "Adobe Lightroom")&nbsp;&nbsp;
-![Adobe Photoshop CC](https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobephotoshop.svg#CSuite "Adobe Photoshop CC")&nbsp;&nbsp;
-![](https://img.icons8.com/ios-filled/50/000000/vertical-line.png#techStack)&nbsp;&nbsp;
-![Adobe Illustrator CC](https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobeillustrator.svg#CSuite "Adobe Illustrator CC")&nbsp;&nbsp;
-![Adobe XD](https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobexd.svg#CSuite "Adobe XD")&nbsp;&nbsp;
-![Adobe InDesign CC](https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobeindesign.svg#CSuite "Adobe InDesign CC")&nbsp;&nbsp;
-![](https://img.icons8.com/ios-filled/50/000000/vertical-line.png#techStack)&nbsp;&nbsp;
-![Adobe PremierePro CC](https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobepremierepro.svg#CSuite "Adobe PremierePro CC")&nbsp;&nbsp;
-![Adobe AfterEffects CC](https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobeaftereffects.svg#CSuite "Adobe AfterEffects CC")&nbsp;&nbsp;
+[<img align="center" title="Adobe Lightroom" alt="Adobe Lightroom" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobelightroomclassic.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="Adobe Photoshop CC" alt="Adobe Photoshop CC" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobephotoshop.svg" />](#)
+[<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios/50/000000/vertical-line.png" />](#)
+[<img align="center" title="Adobe Illustrator CC" alt="C++" alt="Adobe Illustrator CC" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobeillustrator.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="Adobe XD" alt="Adobe XD" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobexd.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="Adobe InDesign CC" alt="Adobe InDesign CC" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobeindesign.svg" />](#)
+[<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios/50/000000/vertical-line.png" />](#)
+[<img align="center" title="Adobe PremierePro CC" alt="Adobe PremierePro CC" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobepremierepro.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="Adobe AfterEffects CC" alt="Adobe AfterEffects CC" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobeaftereffects.svg" />](#)&nbsp;&nbsp;
 
 <br />
 
 ## [<img align="center" title="Medium" alt="medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/medium.svg" />](https://medium.com/@iamstorm)&nbsp;Medium Posts
-- [[Updated] VSCode C/C++ (& 40+ Languages) Development Setup for Windows (Run and Debug)](https://medium.com/@iamstorm/updated-vscode-c-c-40-languages-development-setup-for-windows-run-and-debug-ced6b593cc5)
+- [[Updated] VSCode C/C++ (& 40+ Languages) Development Setup for Windows (Run and Debug)](https://medium.com/@iamstorm/updated-vscode-c-c-40-languages-development-setup-for-windows-run-and-debug-ced6b593cc5)&nbsp;
 
-- [VSCode Color Bug on Linux and Fix](https://medium.com/@iamstorm/vscode-bug-on-linux-7ca4c4544d24)
+- [VSCode Color Bug on Linux and Fix](https://medium.com/@iamstorm/vscode-bug-on-linux-7ca4c4544d24)&nbsp;
 
 <br />
 
