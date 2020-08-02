@@ -1,5 +1,4 @@
-[<img align="center" width="12%" src="https://image.flaticon.com/icons/svg/2087/2087884.svg"/>](#)
-## **Hi! iAmSt0rm!**
+# [<img align="center" width="35px" src="https://image.flaticon.com/icons/svg/2087/2087884.svg"/>](#) *Hi! iAmSt0rm!*
 
 <!--
 **iAmSt0rm/iAmSt0rm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,7 +43,6 @@
 [<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios/50/000000/vertical-line.png" />](#)
 [<img align="center" title="Adobe PremierePro CC" alt="Adobe PremierePro CC" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobepremierepro.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="Adobe AfterEffects CC" alt="Adobe AfterEffects CC" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobeaftereffects.svg" />](#)&nbsp;&nbsp;
-
 <br>
 
 ---
