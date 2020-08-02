@@ -47,7 +47,7 @@
 
 <br />
 
-## [<img align="center" title="Social Media" alt="Social Media" width="26px" src="https://image.flaticon.com/icons/svg/929/929610.svg" />](#)&nbsp;&nbsp;Connect with me:
+## [<img align="center" title="Social Media" alt="Social Media" width="26px" src="https://image.flaticon.com/icons/svg/929/929610.svg" />](#)&nbsp;Connect with me:
 
 [<img align="center" alt="iAmSt0rm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/linkedin.svg" />][linkedin]
 &nbsp;&nbsp;&nbsp;
