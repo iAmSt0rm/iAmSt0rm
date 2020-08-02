@@ -1,4 +1,5 @@
-# [<img align="center" width="35px" src="https://image.flaticon.com/icons/svg/2087/2087884.svg"/>](#) `Hi! iAmSt0rm!`
+[<img align="center" width="200px" src="https://image.flaticon.com/icons/svg/2087/2087884.svg"/>](#) 
+# `Hi! iAmSt0rm!`
 
 <!--
 **iAmSt0rm/iAmSt0rm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
