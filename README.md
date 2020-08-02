@@ -1,4 +1,5 @@
 [<img align="center" width="200px" src="https://image.flaticon.com/icons/svg/2087/2087884.svg"/>](#) 
+[<img align="center" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="img/flipkart-ico.svg" />](#)
 # `Hi! iAmSt0rm!`
 
 <!--
