@@ -1,4 +1,4 @@
-[<img align="center" width="200px" src="https://image.flaticon.com/icons/svg/2087/2087884.svg"/>](#) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamst0rm&show_icons=true&theme=default)
 # `Hi! iAmSt0rm!`
 
 <!--
@@ -13,21 +13,28 @@
 <br>
 
 # **Skills**
-### [<img align="center" title="Programming" alt="Code" width="26px" src="https://img.icons8.com/material-sharp/96/000000/source-code.png" />](#)&nbsp;*Tech Stack*
+### [<img align="center" title="Tools" alt="Tools" height="20px" src="https://image.flaticon.com/icons/svg/3014/3014274.svg" />](#)&nbsp;*Tools*
 [<img align="center" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/visualstudiocode.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="Markdown" alt="Markdown" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/markdown.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="GIT" alt="GIT" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/git.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="Github" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/github.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="Terminal" alt="Terminal" width="26px" src="https://img.icons8.com/ios-filled/100/000000/console.png" />](#)
+[<img align="center" title="Terminal" alt="Terminal" width="26px" src="https://img.icons8.com/ios-filled/100/000000/console.png" />](#)&nbsp;
 [<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios-filled/50/000000/vertical-line.png" />](#)
+[<img align="center" title="npm" alt="npm" height="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/npm.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="Yarn" alt="yarn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/yarn.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="ESLint" alt="ESLint" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/eslint.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="Pop!_OS by System76" alt="pop_os" width="26px" src="https://user-images.githubusercontent.com/44945139/89137908-50a3bb00-d557-11ea-8bab-7018e13844b0.png" />](https://pop.system76.com/)
+
+### [<img align="center" title="Programming" alt="Code" width="26px" src="https://img.icons8.com/material-sharp/96/000000/source-code.png" />](#)&nbsp;*TechStack*
 [<img align="center" title="HTML5" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/html5.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="CSS3" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/css3.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="SASS" alt="SASS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/sass.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="Bootstrap" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/bootstrap.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="JavaScript" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/javascript.svg" />](#)
 [<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios-filled/50/000000/vertical-line.png" />](#)
 [<img align="center" title="C++" alt="C++" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/cplusplus.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="Python" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/python.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="MySQL" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/mysql.svg" />](#)
+[<img align="center" title="MySQL" alt="MySQL" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/mysql.svg" />](#)
 [<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios-filled/50/000000/vertical-line.png" />](#)
 [<img align="center" title="Arduino" alt="Arduino" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/arduino.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="IoT" alt="IoT" width="26px" src="https://img.icons8.com/ios-filled/50/000000/internet-of-things.png" />](#)&nbsp;&nbsp;
@@ -50,14 +57,14 @@
 
 <br>
 
-## [<img align="center" title="Medium" alt="medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/medium.svg" />](https://medium.com/@iamstorm)&nbsp;Medium Posts
+## [<img align="center" title="Medium" alt="medium" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/medium.svg" />](https://medium.com/@iamstorm)&nbsp;Medium Posts
 - [[Updated] VSCode C/C++ (& 40+ Languages) Development Setup for Windows (Run and Debug)](https://medium.com/@iamstorm/updated-vscode-c-c-40-languages-development-setup-for-windows-run-and-debug-ced6b593cc5)&nbsp;
 
 - [VSCode Color Bug on Linux and Fix](https://medium.com/@iamstorm/vscode-bug-on-linux-7ca4c4544d24)&nbsp;
 
 <br>
 
-## [<img align="center" title="Social Media" alt="Social Media" width="26px" src="https://image.flaticon.com/icons/svg/929/929610.svg" />](#)&nbsp;Connect with me:
+## [<img align="center" title="Social Media" alt="Social Media" width="24px" src="https://image.flaticon.com/icons/svg/929/929610.svg" />](#)&nbsp;Connect with me:
 
 [<img align="center" alt="iAmSt0rm | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/linkedin.svg" />][linkedin]
 &nbsp;&nbsp;&nbsp;
