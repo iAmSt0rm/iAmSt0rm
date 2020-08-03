@@ -8,7 +8,7 @@
 - [<img align="center" height="20px" src="https://image.flaticon.com/icons/svg/2905/2905935.svg"/>](#) &nbsp; Currently working on a special project with [Jatin Goyal](https://github.com/Jatin1o1).
 - [<img align="center" height="20px" src="https://image.flaticon.com/icons/svg/3014/3014270.svg"/>](#) &nbsp; Learning Cloud Development.
 - [<img align="center" height="20px" src="https://image.flaticon.com/icons/svg/2943/2943155.svg"/>](#) &nbsp; Designer
-[<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios/50/000000/vertical-line.png" />](#)
+[<img align="center" height="20px" width="30px" src="https://img.icons8.com/ios/50/000000/vertical-line.png" />](#)
 [<img align="center" width="22px" src="https://image.flaticon.com/icons/svg/141/141295.svg"/>](#) &nbsp; Gamer `#pcmr`
 
 <br>
