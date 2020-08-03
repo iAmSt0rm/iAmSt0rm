@@ -1,14 +1,15 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamst0rm&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamst0rm&show_icons=true&theme=default&hide=prs,issues,contribs)
 # `Hi! iAmSt0rm!`
 
 <!--
 **iAmSt0rm/iAmSt0rm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- [<img align="center" width="25px" src="https://img.icons8.com/clouds/100/000000/code.png"/>](#) Currently working on a special project with [Jatin Goyal](https://github.com/Jatin1o1).
+- [<img align="center" width="25px" src="https://image.flaticon.com/icons/svg/2905/2905935.svg"/>](#) Currently working on a special project with [Jatin Goyal](https://github.com/Jatin1o1).
 - [<img align="center" width="25px" src="https://img.icons8.com/clouds/100/000000/learning.png"/>](#) Learning Cloud Development.
-- [<img align="center" width="20px" src="https://img.icons8.com/nolan/100/search.png"/>](#) I’m looking for help with developing middlewares
-- [<img align="center" width="20px" src="https://img.icons8.com/nolan/100/designer.png"/>](#) Fun fact: I'm a Graphic Desginer too!
+- [<img align="center" width="25px" src="https://image.flaticon.com/icons/svg/214/214304.svg"/>](#) &nbsp; Gamer
+[<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios/50/000000/vertical-line.png" />](#)
+[<img align="center" height="20px" src="https://image.flaticon.com/icons/svg/2779/2779775.svg"/>](#) &nbsp; Designer
 
 <br>
 
