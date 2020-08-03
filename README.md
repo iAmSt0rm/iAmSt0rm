@@ -1,8 +1,10 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamst0rm&show_icons=true&theme=default&hide=prs,issues,contribs)
+[<img title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamst0rm&show_icons=true&theme=vue&hide=prs,issues,contribs"/>](https://github.com/iAmSt0rm?tab=repositories)
+
 # `Hi! iAmSt0rm!`
 
 <!--
 **iAmSt0rm/iAmSt0rm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamst0rm&show_icons=true&theme=default&hide=prs,issues,contribs)
 -->
 
 - [<img align="center" height="20px" src="https://image.flaticon.com/icons/svg/2905/2905935.svg"/>](#) &nbsp; Currently working on a special project with [Jatin Goyal](https://github.com/Jatin1o1).
