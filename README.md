@@ -19,7 +19,7 @@
 # **Skills**
 ### [<img align="center" title="Tools" alt="Tools" height="20px" src="https://image.flaticon.com/icons/svg/3014/3014274.svg" />](#)&nbsp;*Tools*
 [<img align="center" title="Visual Studio Code" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/visualstudiocode.svg" />](#)&nbsp;&nbsp;&nbsp;
-[<img align="center" title="Markdown" alt="Markdown" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/markdown.svg" />](#)&nbsp;&nbsp;&nbsp;
+[<img align="center" title="Markdown" alt="Markdown" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/markdown.svg" />](#)&nbsp;&nbsp;&nbsp;
 [<img align="center" title="GIT" alt="GIT" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/git.svg" />](#)&nbsp;&nbsp;&nbsp;
 [<img align="center" title="Github" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/github.svg" />](#)&nbsp;&nbsp;&nbsp;
 [<img align="center" title="Terminal" alt="Terminal" width="30px" src="https://img.icons8.com/ios-filled/100/000000/console.png" />](#)&nbsp;&nbsp;
