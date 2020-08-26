@@ -35,7 +35,6 @@
 [<img align="center" title="ESLint" alt="ESLint" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/eslint.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="Pop!_OS by System76" alt="pop_os" width="26px" src="https://user-images.githubusercontent.com/44945139/89137908-50a3bb00-d557-11ea-8bab-7018e13844b0.png" />](https://pop.system76.com/)
 
-<br>
 
 ### [<img align="center" title="Technologies" alt="Technologies" height="32px" src="https://img.shields.io/badge/TechStack-Technologies-%23434C5E.svg?&style=for-the-badge&logoColor=white&labelColor=2E3440" />](#)&nbsp;
 <!-- ### [<img align="center" title="Programming" alt="Code" width="26px" src="https://img.icons8.com/material-sharp/96/000000/source-code.png" />](#)&nbsp;*TechStack* -->
