@@ -57,6 +57,26 @@
 
 <br>
 
+### [<img align="center" title="Technologies" alt="Technologies" height="32px" src="https://img.shields.io/badge/TechStack-Technologies-%23434C5E.svg?&style=for-the-badge&logoColor=white&labelColor=2E3440" />](#)&nbsp;
+<!-- ### [<img align="center" title="Programming" alt="Code" width="26px" src="https://img.icons8.com/material-sharp/96/000000/source-code.png" />](#)&nbsp;*TechStack* -->
+[<img align="center" title="HTML5" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](#)&nbsp;&nbsp;
+[<img align="center" title="CSS3" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](#)&nbsp;&nbsp;
+[<img align="center" title="SASS" alt="SASS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />](#)&nbsp;&nbsp;
+[<img align="center" title="Bootstrap" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />](#)&nbsp;&nbsp;
+[<img align="center" title="JavaScript" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](#)&nbsp;
+[<img align="center" height="28px" width="30px" src="https://img.icons8.com/ios-filled/50/000000/vertical-line.png" />](#)
+[<img align="center" title="C++" alt="C++" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />](#)&nbsp;&nbsp;
+[<img align="center" title="Python" alt="Python" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](#)&nbsp;&nbsp;
+[<img align="center" title="MySQL" alt="MySQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](#)
+[<img align="center" height="28px" width="30px" src="https://img.icons8.com/ios-filled/50/000000/vertical-line.png" />](#)
+[<img align="center" title="Arduino" alt="Arduino" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/arduino.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="RobotOperatingSystem (ROS)" alt="RobotOperatingSystem (ROS)" width="22px" src="https://img.icons8.com/ios-filled/100/000000/r.png" /><img align="center" title="RobotOperatingSystem (ROS)" alt="RobotOperatingSystem (ROS)" width="22px" src="https://img.icons8.com/ios-filled/100/000000/o.png" /><img align="center" title="RobotOperatingSystem (ROS)" alt="RobotOperatingSystem (ROS)" width="22px" src="https://img.icons8.com/ios-filled/100/000000/s.png" />](#)&nbsp;
+[<img align="center" height="28px" width="30px" src="https://img.icons8.com/ios-filled/50/000000/vertical-line.png" />](#)
+[<img align="center" title="HiveMQ" alt="HiveMQ" width="26px" src="https://user-images.githubusercontent.com/44945139/90971069-bb7a5d80-e529-11ea-85b6-e3ea3dc62f62.png" />](#)&nbsp;&nbsp;
+[<img align="center" title="Eclipse Mosquitto" alt="Eclipse Mosquitto" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/eclipsemosquitto.svg" />](#)&nbsp;&nbsp;
+
+<br>
+
 ### [<img align="center" title="Adobe Creative Suite" alt="Adobe Creative Suite" height="32px" src="https://img.shields.io/badge/Adobe-CreativeSuite-%23434C5E.svg?&style=for-the-badge&logo=adobe&logoColor=white&labelColor=2E3440" />](#)
 
 [<img align="center" title="Adobe Lightroom" alt="Adobe Lightroom" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobelightroomclassic.svg" />](#)&nbsp;&nbsp;
@@ -84,12 +104,15 @@
 
 ## [<img align="center" title="Social Media" alt="Social Media" width="24px" src="https://image.flaticon.com/icons/svg/929/929610.svg" />](#)&nbsp;Connect with me:
 
-[<img align="center" alt="iAmSt0rm | LinkedIn" height="28px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="center" title="LinkedIn | Paras Verma" alt="iAmSt0rm | LinkedIn" height="28px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 &nbsp;&nbsp;&nbsp;
-[<img align="center" alt="iAmSt0rm | Instagram" height="28px" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="center" title="Facebook | Paras Verma" alt="iAmSt0rm | Instagram" height="28px" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+&nbsp;&nbsp;&nbsp;
+[<img align="center" title="Instagram | Paras Verma" alt="iAmSt0rm | Instagram" height="28px" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 &nbsp;&nbsp;&nbsp;
 <!-- [<img align="center" alt="iAmSt0rm | Behance" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/behance.svg" />][behance] -->
 
 [linkedin]: https://www.linkedin.com/in/paraskrv/
 [instagram]: https://www.instagram.com/i_am_paras7/
 [behance]: https://www.behance.net/parasverma/
+[facebook]: https://www.facebook.com/Sonu44589
