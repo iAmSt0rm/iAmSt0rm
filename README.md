@@ -7,7 +7,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamst0rm&show_icons=true&theme=default&hide=prs,issues,contribs&title_color=4C566A)
 -->
 
-- [<img align="center" height="25px" src="https://image.flaticon.com/icons/svg/2905/2905935.svg"/>](#) &nbsp; Currently working on [JumpLabs In](www.jumplabs.in) with [Jatin Goyal](https://github.com/Jatin1o1)
+- [<img align="center" height="25px" src="https://image.flaticon.com/icons/svg/2905/2905935.svg"/>](#) &nbsp; Currently working on [JumpLabs In](https://github.com/jumplabs-in) with [Jatin Goyal](https://github.com/Jatin1o1)
 
 - [<img align="center" height="25px" src="https://image.flaticon.com/icons/svg/3014/3014270.svg"/>](#) &nbsp; Learning Cloud Development
 [<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios/50/000000/vertical-line.png" />](#)
