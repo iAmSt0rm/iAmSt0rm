@@ -42,6 +42,7 @@
 [<img align="center" title="HTML5" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/html5.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="CSS3" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/css3.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="SASS" alt="SASS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/sass.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="Tailwind CSS" alt="Tailwind" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/tailwindcss.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="Bootstrap" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/bootstrap.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="JavaScript" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/javascript.svg" />](#)&nbsp;
 [<img align="center" height="28px" width="30px" src="https://img.icons8.com/ios-filled/50/000000/vertical-line.png" />](#)
