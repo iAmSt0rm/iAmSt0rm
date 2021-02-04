@@ -88,7 +88,7 @@
 <!-- [<img align="center" alt="iAmSt0rm | Behance" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/behance.svg" />][behance] -->
 
 [linkedin]: https://www.linkedin.com/in/paraskrv/
-[instagram]: https://www.instagram.com/i_am_paras7/
+[instagram]: https://www.instagram.com/whimsically_sober/
 [behance]: https://www.behance.net/parasverma/
 [facebook]: https://www.facebook.com/Sonu44589
 
