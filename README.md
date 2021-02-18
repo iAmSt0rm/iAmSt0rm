@@ -41,13 +41,15 @@
 [<img align="center" title="SASS" alt="SASS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/sass.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="Tailwind CSS" alt="Tailwind" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/tailwindcss.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="Bootstrap" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/bootstrap.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="JavaScript" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/javascript.svg" />](#)&nbsp;
+[<img align="center" title="JavaScript" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/javascript.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="Node.Js" alt="Node.Js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/node-dot-js.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="GO" alt="GO" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/go.svg" />](#)
 [<img align="center" height="28px" width="30px" src="https://img.icons8.com/ios-filled/50/000000/vertical-line.png" />](#)
 [<img align="center" title="C++" alt="C++" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/cplusplus.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="Python" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/python.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="MySQL" alt="MySQL" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/mysql.svg" />](#)
 [<img align="center" height="28px" width="30px" src="https://img.icons8.com/ios-filled/50/000000/vertical-line.png" />](#)
-[<img align="center" title="Arduino" alt="Arduino" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/arduino.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="Arduino" alt="Arduino" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/arduino.svg" />](#)&nbsp;
 [<img align="center" height="28px" width="30px" src="https://img.icons8.com/ios-filled/50/000000/vertical-line.png" />](#)
 [<img align="center" title="HiveMQ" alt="HiveMQ" width="26px" src="https://user-images.githubusercontent.com/44945139/90971069-bb7a5d80-e529-11ea-85b6-e3ea3dc62f62.png" />](#)&nbsp;&nbsp;
 [<img align="center" title="Eclipse Mosquitto" alt="Eclipse Mosquitto" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/eclipsemosquitto.svg" />](#)&nbsp;&nbsp;
