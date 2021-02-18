@@ -7,14 +7,14 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamst0rm&show_icons=true&theme=default&hide=prs,issues,contribs&title_color=4C566A)
 -->
 
-- [<img align="center" height="25px" src="https://image.flaticon.com/icons/svg/2905/2905935.svg"/>](#) &nbsp; Testing new tech to create a better world.
+- [<img align="center" height="25px" src="https://pics.freeicons.io/uploads/icons/png/14760371461555931396-512.png"/>](#) &nbsp; Testing new tech to create a better world.
 
-- [<img align="center" height="25px" src="https://image.flaticon.com/icons/svg/3014/3014270.svg"/>](#) &nbsp; Learning Cloud Development
+- [<img align="center" height="25px" src="https://pics.freeicons.io/uploads/icons/png/5611326011579330065-512.png"/>](#) &nbsp; Learning Cloud Development
 [<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios/50/000000/vertical-line.png" />](#)
 [<img align="center" title="IoT" alt="IoT" width="26px" src="https://img.icons8.com/ios-filled/50/000000/internet-of-things.png" />](#)&nbsp; Electronics & IoT Engineer
-- [<img align="center" height="25px" src="https://image.flaticon.com/icons/svg/2943/2943155.svg"/>](#) &nbsp; Designer
+- [<img align="center" height="25px" src="https://pics.freeicons.io/uploads/icons/png/6684101501555931400-512.png"/>](#) &nbsp; Designer
 [<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios/50/000000/vertical-line.png" />](#)
-[<img align="center" width="25px" src="https://image.flaticon.com/icons/svg/141/141295.svg"/>](#) &nbsp; Gamer `#pcmr`
+[<img align="center" width="25px" src="https://pics.freeicons.io/uploads/icons/png/9364660901536063363-512.png"/>](#) &nbsp; Gamer `#pcmr`
 
 <br>
 
