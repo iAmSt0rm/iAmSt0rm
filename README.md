@@ -7,9 +7,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamst0rm&show_icons=true&theme=default&hide=prs,issues,contribs&title_color=4C566A)
 -->
 
-- [<img align="center" height="25px" src="https://pics.freeicons.io/uploads/icons/png/14760371461555931396-512.png"/>](#) &nbsp; Learning new tech to create a better world.
+- <img align="center" height="25px" src="https://pics.freeicons.io/uploads/icons/png/14760371461555931396-512.png"/>&nbsp; Software Developer<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios/50/000000/vertical-line.png" />Learning new tech to create a better world.
 
-- [<img align="center" height="25px" src="https://user-images.githubusercontent.com/44945139/108477995-f59aa100-72b9-11eb-8cbc-a0d4f92c9449.png"/>](#) &nbsp; Coming to Servers soon.
+- <img align="center" height="25px" src="https://user-images.githubusercontent.com/44945139/108477995-f59aa100-72b9-11eb-8cbc-a0d4f92c9449.png"/> &nbsp; Coming to Servers soon.
 [<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios/50/000000/vertical-line.png" />](#)
 [<img align="center" title="IoT" alt="IoT" width="26px" src="https://img.icons8.com/ios-filled/50/000000/internet-of-things.png" />](#)&nbsp; Electronics & IoT Engineer
 - [<img align="center" height="25px" src="https://pics.freeicons.io/uploads/icons/png/6684101501555931400-512.png"/>](#) &nbsp; Designer
@@ -21,44 +21,119 @@
 <br>
 
 <!-- # **Skills** -->
-### [<img align="center" title="Tools" alt="Tools" height="28px" src="https://img.shields.io/badge/TechStack-Tools-%23434C5E.svg?&style=for-the-badge&logoColor=white&labelColor=2E3440" />](#)&nbsp;
-[<img align="center" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/visualstudiocode.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="Markdown" alt="Markdown" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/markdown.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="GIT" alt="GIT" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/git.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="Github" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/github.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="Terminal" alt="Terminal" width="26px" src="https://img.icons8.com/ios-filled/100/000000/console.png" />](#)&nbsp;
-[<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios-filled/50/000000/vertical-line.png" />](#)
-[<img align="center" title="npm" alt="npm" height="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/npm.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="Yarn" alt="yarn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/yarn.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="ESLint" alt="ESLint" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/eslint.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="Pop!_OS by System76" alt="pop_os" width="26px" src="https://user-images.githubusercontent.com/44945139/89137908-50a3bb00-d557-11ea-8bab-7018e13844b0.png" />](https://pop.system76.com/)
+### <img align="center" title="Tools" alt="Tools" height="28px" src="https://img.shields.io/badge/TechStack-Tools-%23434C5E.svg?&style=for-the-badge&logoColor=white&labelColor=2E3440" />&nbsp;
+&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"
+alt="Visual Studio Code"
+title="Visual Studio Code"
+height="28"
+width="28"
+/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg"
+alt="IntelliJ Idea"
+title="IntelliJ Idea"
+height="28"
+width="28"
+/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"
+alt="Sublime Text"
+title="Sublime Text"
+height="28"
+width="28"
+/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/postman.svg"
+alt="Postman"
+alt="Postman"
+title="Postman"
+height="28"
+width="32"
+/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"
+alt="Git"
+title="Git"
+height="26"
+width="26"
+/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg"
+alt="Kubernetes"
+title="Kubernetes"
+height="28"
+width="28"
+/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg"
+alt="AWS"
+title="AWS"
+height="28"
+width="28"
+/>
 
 <br>
 
-### [<img align="center" title="Technologies" alt="Technologies" height="28px" src="https://img.shields.io/badge/TechStack-Technologies-%23434C5E.svg?&style=for-the-badge&logoColor=white&labelColor=2E3440" />](#)&nbsp;
-[<img align="center" title="HTML5" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/html5.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="CSS3" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/css3.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="SASS" alt="SASS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/sass.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="Tailwind CSS" alt="Tailwind" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/tailwindcss.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="Bootstrap" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/bootstrap.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="JavaScript" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/javascript.svg" />](#)&nbsp;
-[<img align="center" height="28px" width="30px" src="https://img.icons8.com/ios-filled/50/000000/vertical-line.png" />](#)
-[<img align="center" title="Node.Js" alt="Node.Js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/node-dot-js.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="GO" alt="GO" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/go.svg" />](#)
-[<img align="center" height="28px" width="30px" src="https://img.icons8.com/ios-filled/50/000000/vertical-line.png" />](#)
-[<img align="center" title="C++" alt="C++" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/cplusplus.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="Python" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/python.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="MySQL" alt="MySQL" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/mysql.svg" />](#)
-[<img align="center" height="28px" width="30px" src="https://img.icons8.com/ios-filled/50/000000/vertical-line.png" />](#)
-[<img align="center" title="Arduino" alt="Arduino" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/arduino.svg" />](#)&nbsp;
-[<img align="center" height="28px" width="30px" src="https://img.icons8.com/ios-filled/50/000000/vertical-line.png" />](#)
-[<img align="center" title="HiveMQ" alt="HiveMQ" width="26px" src="https://user-images.githubusercontent.com/44945139/90971069-bb7a5d80-e529-11ea-85b6-e3ea3dc62f62.png" />](#)&nbsp;&nbsp;
-[<img align="center" title="Eclipse Mosquitto" alt="Eclipse Mosquitto" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/eclipsemosquitto.svg" />](#)&nbsp;&nbsp;
+### <img align="center" title="Technologies" alt="Technologies" height="28px" src="https://img.shields.io/badge/TechStack-Technologies-%23434C5E.svg?&style=for-the-badge&logoColor=white&labelColor=2E3440" />&nbsp;
+&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/java-14.svg"
+alt="Java"
+title="Java"
+height="28"
+width="28"
+/> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"
+alt="MongoDB"
+title="MongoDB"
+height="32"
+width="20"
+/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"
+alt="Spring"
+title="Spring"
+height="28"
+width="28"
+/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg"
+alt="HTML5"
+title="HTML5"
+height="28"
+width="28"
+/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg"
+alt="CSS3"
+title="CSS3"
+height="28"
+width="28"
+/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"
+alt="JavaScript"
+title="JavaScript"
+height="28"
+width="28"
+/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"
+alt="Node.js"
+title="Node.js"
+height="28"
+width="28"
+/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/golang-1.svg"
+alt="Go"
+title="Go"
+height="28"
+width="48"
+/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/c.svg"
+alt="C++"
+title="C++"
+height="28"
+width="28"
+/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg"
+alt="Python"
+title="Python"
+height="28"
+width="28"
+/>
 
 <br>
 
-### [<img align="center" title="Adobe Creative Suite" alt="Adobe Creative Suite" height="28px" src="https://img.shields.io/badge/Adobe-CreativeCloud-%23434C5E.svg?&style=for-the-badge&logo=adobe&logoColor=white&labelColor=2E3440" />](#)
-[<img align="center" title="Adobe Lightroom" alt="Adobe Lightroom" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobelightroomclassic.svg" />](#)&nbsp;&nbsp;
+### <img align="center" title="Adobe Creative Suite" alt="Adobe Creative Suite" height="28px" src="https://img.shields.io/badge/Adobe-CreativeCloud-%23434C5E.svg?&style=for-the-badge&logo=adobe&logoColor=white&labelColor=2E3440" />
+&nbsp;&nbsp;[<img align="center" title="Adobe Lightroom" alt="Adobe Lightroom" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobelightroomclassic.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="Adobe Photoshop CC" alt="Adobe Photoshop CC" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobephotoshop.svg" />](#)
 [<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios/50/000000/vertical-line.png" />](#)
 [<img align="center" title="Adobe Illustrator CC" alt="C++" alt="Adobe Illustrator CC" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobeillustrator.svg" />](#)&nbsp;&nbsp;
@@ -73,14 +148,14 @@
 
 <br>
 
-## [<img align="center" title="Medium" alt="medium" height="32px" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@iamstorm)&nbsp; [<img align="center" title="Dev.to" alt="dev.to" height="32px" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />](https://dev.to/iamst0rm)&nbsp;
-<!-- - [[Updated] VSCode C/C++ (& 40+ Languages) Development Setup for Windows (Run and Debug)](https://medium.com/@iamstorm/updated-vscode-c-c-40-languages-development-setup-for-windows-run-and-debug-ced6b593cc5)&nbsp; -->
+## [<img align="center" title="Medium" alt="medium" height="32px" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@iamstorm)&nbsp; [<img align="center" title="Dev.to" alt="dev.to" height="32px" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=devdotto&logoColor=white" />](https://dev.to/iamst0rm)&nbsp;
 
+- [Java Environment Variables and Error: ENOENT; A love-hate relationship.](https://iamparas.medium.com/java-environment-variables-and-error-enoent-a-love-hate-relationship-4e2fe5339228)&nbsp;
 - [VSCode Color Bug on Linux and Fix](https://medium.com/@iamstorm/vscode-bug-on-linux-7ca4c4544d24)&nbsp;
 
 <br>
 
-## [<img align="center" title="Social Media" alt="Social Media" width="24px" src="https://image.flaticon.com/icons/svg/929/929610.svg" />](#)&nbsp;Connect with me:
+## [<img align="center" title="Social Media" alt="Social Media" width="28px" src="https://cdn-icons-png.flaticon.com/512/2065/2065157.png" />](#)&nbsp;Connect with me:
 
 [<img align="center" title="LinkedIn | Paras Verma" alt="iAmSt0rm | LinkedIn" height="28px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 &nbsp;&nbsp;&nbsp;
