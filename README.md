@@ -130,19 +130,53 @@ height="28"
 width="28"
 />
 
+
 <br>
 
 ### <img align="center" title="Adobe Creative Suite" alt="Adobe Creative Suite" height="28px" src="https://img.shields.io/badge/Adobe-CreativeCloud-%23434C5E.svg?&style=for-the-badge&logo=adobe&logoColor=white&labelColor=2E3440" />
-&nbsp;&nbsp;[<img align="center" title="Adobe Lightroom" alt="Adobe Lightroom" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobelightroomclassic.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="Adobe Photoshop CC" alt="Adobe Photoshop CC" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobephotoshop.svg" />](#)
-[<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios/50/000000/vertical-line.png" />](#)
-[<img align="center" title="Adobe Illustrator CC" alt="C++" alt="Adobe Illustrator CC" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobeillustrator.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="Adobe XD" alt="Adobe XD" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobexd.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="Adobe InDesign CC" alt="Adobe InDesign CC" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobeindesign.svg" />](#)
-[<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios/50/000000/vertical-line.png" />](#)
-[<img align="center" title="Adobe PremierePro CC" alt="Adobe PremierePro CC" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobepremierepro.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="Adobe AfterEffects CC" alt="Adobe AfterEffects CC" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobeaftereffects.svg" />](#)&nbsp;&nbsp;
-<br>
+&nbsp;&nbsp;
+<img src="https://iconape.com/wp-content/files/mm/373284/svg/373284.svg"
+alt="Adobe Lightroom CC"
+title="Adobe Lightroom CC"
+height="28"
+width="28"
+/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://iconape.com/wp-content/files/ix/373285/svg/373285.svg"
+alt="Adobe Photoshop CC"
+title="Adobe Photoshop CC"
+height="28"
+width="28"
+/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://iconape.com/wp-content/files/tr/373282/svg/373282.svg"
+alt="Adobe Illustrator CC"
+title="Adobe Illustrator CC"
+height="28"
+width="28"
+/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://iconape.com/wp-content/files/ld/373283/svg/373283.svg"
+alt="Adobe Indesign CC"
+title="Adobe Indesign CC"
+height="28"
+width="28"
+/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://iconape.com/wp-content/files/ai/373290/svg/373290.svg"
+alt="Adobe XD"
+title="Adobe XD"
+height="28"
+width="28"
+/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://iconape.com/wp-content/files/ky/373287/svg/373287.svg"
+alt="Adobe Premiere CC"
+title="Adobe Premiere CC"
+height="28"
+width="28"
+/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/44945139/146665888-30e5c41e-afb7-4862-b2b5-c5bf672515a8.png"
+alt="Adobe AfterEffects CC"
+title="Adobe AfterEffects CC"
+height="28"
+width="28"
+/>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
 
