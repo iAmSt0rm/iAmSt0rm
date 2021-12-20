@@ -34,7 +34,7 @@ alt="IntelliJ Idea"
 title="IntelliJ Idea"
 height="36"
 width="36"
-/>&nbsp;&nbsp;&nbsp;&nbsp;
+/>](#)&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"
 alt="Sublime Text"
 title="Sublime Text"
@@ -202,7 +202,7 @@ width="36"
 &nbsp;&nbsp;&nbsp;
 [<img align="center" title="Instagram | Paras Verma" alt="iAmSt0rm | Instagram" height="28px" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 &nbsp;&nbsp;&nbsp;
-[<img align="center" title="Behance | Paras Verma" alt="iAmSt0rm | Behance" height="28px" src="https://img.shields.io/badge/behance-%23000000.svg?&style=for-the-badge&logo=behance&logoColor=white" />][instagram]
+[<img align="center" title="Behance | Paras Verma" alt="iAmSt0rm | Behance" height="28px" src="https://img.shields.io/badge/behance-%23000000.svg?&style=for-the-badge&logo=behance&logoColor=white" />][behance]
 &nbsp;&nbsp;&nbsp;
 
 <!-- [<img align="center" alt="iAmSt0rm | Behance" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/behance.svg" />][behance] -->
