@@ -210,7 +210,7 @@ width="36"
 &nbsp;&nbsp;&nbsp; -->
 
 [linkedin]: https://www.linkedin.com/in/paraskrv/
-[instagram]: https://www.instagram.com/whimsically_sober/
+[instagram]: https://www.instagram.com/i_am_paras7/
 [behance]: https://www.behance.net/parasverma/
 [facebook]: https://www.facebook.com/Sonu44589
 
