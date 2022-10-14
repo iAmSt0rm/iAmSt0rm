@@ -34,7 +34,7 @@ alt="IntelliJ Idea"
 title="IntelliJ Idea"
 height="36"
 width="36"
-/>](#)&nbsp;&nbsp;&nbsp;&nbsp;
+/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"
 alt="Sublime Text"
 title="Sublime Text"
